@@ -1,0 +1,16 @@
+C:\Users\Rog G Strix\source\repos\oop3\oop3\bin\Debug\oop3.exe.config
+C:\Users\Rog G Strix\source\repos\oop3\oop3\bin\Debug\oop3.exe
+C:\Users\Rog G Strix\source\repos\oop3\oop3\bin\Debug\oop3.pdb
+C:\Users\Rog G Strix\source\repos\oop3\oop3\obj\Debug\oop3.csproj.AssemblyReference.cache
+C:\Users\Rog G Strix\source\repos\oop3\oop3\obj\Debug\oop3.Properties.Resources.resources
+C:\Users\Rog G Strix\source\repos\oop3\oop3\obj\Debug\oop3.csproj.GenerateResource.cache
+C:\Users\Rog G Strix\source\repos\oop3\oop3\obj\Debug\oop3.csproj.CoreCompileInputs.cache
+C:\Users\Rog G Strix\source\repos\oop3\oop3\obj\Debug\oop3.exe
+C:\Users\Rog G Strix\source\repos\oop3\oop3\obj\Debug\oop3.pdb
+C:\Users\Rog G Strix\source\repos\oop3\oop3\obj\Debug\oop3.frmdoktorgiris.resources
+C:\Users\Rog G Strix\source\repos\oop3\oop3\obj\Debug\oop3.frmgiris.resources
+C:\Users\Rog G Strix\source\repos\oop3\oop3\obj\Debug\oop3.frmdoktorpanel.resources
+C:\Users\Rog G Strix\source\repos\oop3\oop3\obj\Debug\oop3.frmhakkinda.resources
+C:\Users\Rog G Strix\source\repos\oop3\oop3\obj\Debug\oop3.frmhastakayit.resources
+C:\Users\Rog G Strix\source\repos\oop3\oop3\obj\Debug\oop3.iletisim.resources
+C:\Users\Rog G Strix\source\repos\oop3\oop3\obj\Debug\oop3.frmguncelle.resources
